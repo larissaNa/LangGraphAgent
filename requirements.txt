@@ -13,3 +13,4 @@ langchain_anthropic
 arxiv
 langgraph-supervisor
 langchain-tavily
+tf-keras
