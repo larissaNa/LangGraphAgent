@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+tavily-python
+sentence-transformers
+apscheduler
+requests
+python-dotenv
+langgraph
+langsmith
+langchain_anthropic
+arxiv
+langgraph-supervisor
+langchain-tavily
