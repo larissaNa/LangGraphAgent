@@ -11,12 +11,18 @@ Este projeto foi desenvolvido como parte do **Minicurso do ENUCOMPI 2025** e dem
 
 ## 📚 Objetivo
 
-Criar um agente inteligente capaz de:
+Sistema Multiagente capaz de:
 
 1. Realizar buscas em tempo real de artigos no **arXiv**.
 2. Armazenar os artigos em um banco vetorial local (**ChromaDB**) com embeddings do HuggingFace.
-3. Responder a perguntas com base nos artigos indexados.
+3. Responder a perguntas gerais.
 4. Executar tarefas agendadas como reindexação ou atualizações automáticas.
+
+## 🧭 Fluxo do Sistema Multiagente
+
+O diagrama abaixo mostra como os componentes interagem:
+
+![Fluxograma do sistema](/images/fluxograma.png)
 
 
 ## 🚀 Como executar
