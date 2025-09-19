@@ -30,7 +30,7 @@ O diagrama abaixo mostra como os componentes interagem:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/minicurso_agente.git
+git clone https://github.com/larissaNa/LangGraphAgent.git
 ```
 2. Crie e ative um ambiente virtual:
 ```bash
